@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Alata', sans-serif;
+}
+
+.work{
+    font-family: 'Work Sans', sans-serif;;
+}
+
+hr{
+    color: grey;
+}

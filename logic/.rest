@@ -1,0 +1,6 @@
+GET  http://localhost:5000/checkout/cart/create-checkout-session
+Content-Type: application/json
+
+{
+    "id":"64e1eefe45dd988948324edb"
+}
